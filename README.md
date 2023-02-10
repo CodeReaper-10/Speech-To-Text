@@ -1,7 +1,7 @@
 ## How to run
 1. Clone the repository
    ```
-   git clone git@github.com:GDSC-RCCIIT/General-Purpose-Scripts.git
+   git clone https://github.com/CodeReaper-10/Speech-To-Text.git
    ```
 2. Install the requirements
    ```
