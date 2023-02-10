@@ -12,5 +12,5 @@
    ```
 3. Run the script and start talking or dictating
    ```
-   python script.py
+   python SpeechToText.py
    ```
